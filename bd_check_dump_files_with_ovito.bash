@@ -1,0 +1,2 @@
+ovito dump_0_every_*_800K_256_atoms_fcc_3.597A_n_1000_langevin.Cu &
+ovito dump_iterate_every_*_800K_256_atoms_fcc_3.597A_n_1000_langevin.Cu &

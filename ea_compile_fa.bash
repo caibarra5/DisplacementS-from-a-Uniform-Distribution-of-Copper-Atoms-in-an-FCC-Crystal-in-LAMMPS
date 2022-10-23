@@ -1,0 +1,1 @@
+gcc fa_main_displace_atom_positions_by_some_amplitude.c -o fb_displace_atom_positions_by_some_amplitude
